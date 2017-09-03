@@ -1,0 +1,40 @@
+<h2>BECOME A MEMBER</h2>
+
+<center>
+    <table style="text-align: center; font-size: 30px;">
+       <tr>
+        
+         <td> <u> LOGIN HERE</u> </td>
+           </tr>
+
+
+    </table>
+	</center>
+<br>
+<br>
+<br>
+
+<center>
+    <table class="tableregister" style=" border-style:solid; border-radius: 10px;  border-width: 2px;  ">
+        <th> <center>Login</center></th>
+        <tr>
+            <td>
+
+                <center>
+
+
+    Username:   <input type="Input" name="txtusername"> <br> <br>
+    Password:   <input type="Password" name="txtpassword"> <br> <br>
+
+
+                   
+                </center>
+
+
+                <center><input type="button" name="txtpassword" onclick="validate()" value="Login" style="black; width: 100px; border-radius: 10px ;height: 30px; font-size: 23px">   </center><br> <br>
+
+
+            </td>
+        </tr>
+    </table>
+</center>
