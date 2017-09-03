@@ -31,7 +31,7 @@
                 </center>
 
 
-                <center><input type="button" name="txtpassword" onclick="validate()" value="Login" style="black; width: 100px; border-radius: 10px ;height: 30px; font-size: 23px">   </center><br> <br>
+                <center><input type="button" name="btnLogin" onclick="validate()" value="Login" style="black; width: 100px; border-radius: 10px ;height: 30px; font-size: 23px">   </center><br> <br>
 
 
             </td>
